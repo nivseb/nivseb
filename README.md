@@ -36,12 +36,15 @@ Here's a quick overview of my key skills:
 - Vuetify
 - Nuxt
 
-
 **DevOps & Tools:**
 - Docker
 - Kubernetes
 - Different relation database systems (mariaDB, mySQL, MSSQL) 
 - Elastic Kibana
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nivseb&show_icons=true&theme=dark&hide=stars,contribs)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivseb&size_weight=0.5&count_weight=0.5&theme=dark&hide=shell&layout=compact)
+
 
 ---
 
